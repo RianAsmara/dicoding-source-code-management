@@ -4,11 +4,11 @@ html, body {
     background-color: #f4f4f4;
 }
 
-.container {
-    /* align-items: center;
+/* .container {
+    align-items: center;
     display: flex;
-    justify-content: center; */
-}
+    justify-content: center;
+} */
 
 .row {
     max-width: 50%;
